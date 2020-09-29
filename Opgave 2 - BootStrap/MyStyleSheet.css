@@ -1,0 +1,67 @@
+h1
+{
+    font-weight: bold;
+}
+
+.grid
+{
+    margin: 0 auto;
+    background-color: blue;
+}
+
+.col-sm-3
+{
+    background-color: white;
+}
+
+.col-sm-4
+{
+    background-color: white;
+}
+
+
+.col-sm-6
+{
+    background-color: white;
+}
+
+
+
+
+
+.main
+{
+    background-color:white;
+}
+
+.fagTekst
+{
+    text-align: center;
+}
+
+
+
+.semesterTitler
+{
+    text-align: center;
+    color: white;
+    
+}
+
+.semesterBox
+{
+    text-align: center; 
+    margin-top: 10px;
+}
+
+.bigBreak
+{
+    height: 75px;
+}
+
+.infoLink
+{
+    text-align: left;
+    margin-left: 90px;
+}
+
